@@ -1,8 +1,6 @@
 # High Level Amazon S3 Client
 
-NOTE: A forked, working version of https://github.com/andrewrk/node-s3-cli by using a compatible `graceful-fs` package.
-
-It fixes the bug: **ReferenceError: primordials is not defined**.
+NOTES: A forked, working version of https://www.npmjs.com/package/s3 by using a compatible `graceful-fs` package. It fixes the bug: **ReferenceError: primordials is not defined**.
 
 ## Installation
 
