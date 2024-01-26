@@ -1,4 +1,4 @@
-# S3-MORE-GRACEFUL - A High Level Amazon S3 Client
+# S3-MORE-GRACEFUL - High Level AWS S3 Client
 
 NOTES: A forked, working version of https://www.npmjs.com/package/s3 by using a compatible `graceful-fs` package. It fixes the bug: **ReferenceError: primordials is not defined**.
 
