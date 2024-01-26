@@ -1,3 +1,9 @@
+### 4.4.1
+From now on, the old project is forked:
+ * update graceful-fs to 4.2.11
+
+---
+
 ### 4.4.0
 
  * Export aws-sdk dependency
