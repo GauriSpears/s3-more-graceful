@@ -1,6 +1,6 @@
 {
   "name": "s3-more-graceful",
-  "version": "4.4.4",
+  "version": "4.4.5",
   "description": "High level AWS S3 client. Upload and download files and directories.",
   "main": "lib/index.js",
   "scripts": {
