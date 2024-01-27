@@ -1,7 +1,7 @@
 {
   "name": "s3-more-graceful",
   "version": "4.4.4",
-  "description": "high level amazon s3 client. upload and download files and directories",
+  "description": "High level AWS S3 client. Upload and download files and directories.",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha"

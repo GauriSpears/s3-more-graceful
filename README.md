@@ -4,7 +4,7 @@ NOTES: A forked, working version of https://www.npmjs.com/package/s3 by using a 
 
 ## Installation
 
-`npm install s3 --save`
+`npm install s3-more-graceful --save`
 
 ## Features
 
